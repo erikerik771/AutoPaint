@@ -1,0 +1,9 @@
+D:\programming\cs\projects\AutoPaint\bin\Debug\AutoPaint.exe.config
+D:\programming\cs\projects\AutoPaint\bin\Debug\AutoPaint.exe
+D:\programming\cs\projects\AutoPaint\bin\Debug\AutoPaint.pdb
+D:\programming\cs\projects\AutoPaint\obj\Debug\AutoPaint.csprojAssemblyReference.cache
+D:\programming\cs\projects\AutoPaint\obj\Debug\AutoPaint.Properties.Resources.resources
+D:\programming\cs\projects\AutoPaint\obj\Debug\AutoPaint.csproj.GenerateResource.cache
+D:\programming\cs\projects\AutoPaint\obj\Debug\AutoPaint.csproj.CoreCompileInputs.cache
+D:\programming\cs\projects\AutoPaint\obj\Debug\AutoPaint.exe
+D:\programming\cs\projects\AutoPaint\obj\Debug\AutoPaint.pdb
